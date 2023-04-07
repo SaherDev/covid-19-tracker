@@ -1,5 +1,5 @@
 # covid-19-tracker
-***using leaflet map, charts.js, disease.sh API***
+***using leaflet map, charts.js, disease.sh API [Click Here](http://covid-19-tracker.sah-dev.xyz)***
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
 ##### 2. Open your code editor and add the project folder #####
